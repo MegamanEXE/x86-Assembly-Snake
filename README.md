@@ -3,6 +3,6 @@ A very simple implementation of Snake using x86 Assembly and using the Irvine32 
 
 Note: make32 will most probably not work. I made this using Visual Studio 2013 and you can follow the instruction at Irvine's website to set up the project. There is a blank project file there as well which you can use and simply copy this code.
 
-I wrote this to be very intuitive and very easy to understand (as such is my coding style). I was supposed to make this as a semester project for my assembly language class and it was actually pretty easy.
+I wrote this to be very intuitive and very easy to understand. This is a semester project for my assembly language class and it was actually pretty easy and fun.
 
 Enjoy!
